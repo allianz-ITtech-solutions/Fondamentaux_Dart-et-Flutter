@@ -1,16 +1,14 @@
-# test_app
+# Fondamentaux de Flutter + Dart
 
-A new Flutter project.
+> Ceci est un petit projet qui nous a permis de voir les fondamentaux du Langage Dart et les composants de bases de Flutter (les Widgets). On a aussi vu quelques actions et opérations possibles sur les widgets et autres.
 
-## Getting Started
+## Table des Matières
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Variables nommés, variables obligatoires]
+- [Créer une Classe en Dart et ses attributs]
+- [Constructeur par défaut et Constructeur Surchargé]
+- [Relations en Dart]
+- [Créer un Objet en Dart]
+- [Boucle 'for' en Dart]
+- [Liste et Map en Dart]
+- [Les Widgets (AppBar, Drawer, Column, Row, ListView, etc...)]
